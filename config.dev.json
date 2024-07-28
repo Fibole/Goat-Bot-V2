@@ -12,13 +12,13 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"nickNameBot": "≛𝙃𝙐𝙉𝙏𝙀𝙍 𝙇𝙄𝙉𝙀≛",
+	"prefix": ".",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": ["100065176744106"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -40,15 +40,15 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "daemondeslassshinmon@gmail.com",
+			"clientId": " 324285285435-hqgs1tf71njo6dl9sisa2j8fn5b6656b.apps.googleusercontent.com",
+			"clientSecret": " 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",
+			"refreshToken": "1//04MzJoOHzuWs5CgYIARAAGAQSNwF-L9IrE_lv-6vm2TZyKzsWvep8l24WAlmqfIUUv16ldkqHx_8UZibfDwmEO7k8OA32BVuBZVw",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6LedLRoqAAAAAGbf-zZvbpZ_H6NkkqAY5dOmQt2Q",
+			"secretKey": "6LedLRoqAAAAAAJ3cFHIvG618KMJxJmPf5u5jLfO"
 		}
 	},
 	"dashBoard": {
